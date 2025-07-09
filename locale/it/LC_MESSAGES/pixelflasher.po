@@ -66,61 +66,61 @@ msgstr "&Aiuto"
 # File menu items
 # -------------------------------------
 msgid "Settings"
-msgstr "Configuración"
+msgstr "Impostazioni"
 
 msgid "Exit"
-msgstr "Salir"
+msgstr "Esci"
 
 msgid "E&xit\tCtrl-Q"
-msgstr "&Salir\tCtrl-Q"
+msgstr "&Esci\tCtrl-Q"
 
 msgid "Exit PixelFlasher"
-msgstr "Salir de PixelFlasher"
+msgstr "Esci da PixelFlasher"
 
 # -------------------------------------
 # Device menu items
 # -------------------------------------
 msgid "Install APK"
-msgstr "Instalar APK"
+msgstr "Installa APK"
 
 msgid "Package Manager"
-msgstr "Administrador de paquetes"
+msgstr "Amministratore dei pacchetti"
 
 msgid "ADB Shell"
-msgstr "Terminal ADB"
+msgstr "Terminale ADB"
 
 msgid "Scrcpy"
 msgstr "Scrcpy"
 
 msgid "Device Info"
-msgstr "Información del dispositivo"
+msgstr "Informazioni del dispositivo"
 
 msgid "Pif Print"
 msgstr "Pif Print"
 
 msgid "Props as Json"
-msgstr "Props como Json"
+msgstr "Props come Json"
 
 msgid "Dump Screen XML"
-msgstr "Volcar pantalla en XML"
+msgstr "Scarica lo schermo XML"
 
 msgid "Cancel OTA Update"
-msgstr "Cancelar actualización OTA"
+msgstr "Cancella aggiornmento OTA"
 
 msgid "Check otacerts"
-msgstr "Verificar otacerts"
+msgstr "Verifica otacerts"
 
 msgid "Partitions Manager"
-msgstr "Administrador de particiones"
+msgstr "Controlla partizioni"
 
 msgid "PI Analysis Report"
-msgstr "Informe de análisis PI"
+msgstr "Report & analisi PI"
 
 msgid "Switch Slot"
-msgstr "Cambiar ranura"
+msgstr "Cambia slot"
 
 msgid "Reboot"
-msgstr "Reiniciar"
+msgstr "Riavvia"
 
 # -------------------------------------
 # Reboot sub-menu items
@@ -138,10 +138,10 @@ msgid "Recovery"
 msgstr "Recovery"
 
 msgid "Interactive Recovery"
-msgstr "Recovery interactivo"
+msgstr "Recovery interattiva"
 
 msgid "Safe Mode"
-msgstr "Modo seguro"
+msgstr "Safe mode"
 
 msgid "Download"
 msgstr "Download"
@@ -151,52 +151,52 @@ msgstr "Sideload"
 # ---
 
 msgid "Push file(s) to"
-msgstr "Enviar archivo(s) a"
+msgstr "Invia archivio(i) a"
 
 msgid "Magisk"
 msgstr "Magisk"
 
 msgid "Rooting App"
-msgstr "App de root"
+msgstr "App di root"
 
 msgid "Magisk Backup Manager"
-msgstr "Administrador de copias de Magisk"
+msgstr "Manager backup Magisk"
 
 msgid "Backup /data/adb"
-msgstr "Copia de seguridad de /data/adb"
+msgstr "Backup /data/adb"
 
 msgid "Restore /data/adb"
-msgstr "Restaurar /data/adb"
+msgstr "Ripristina /data/adb"
 
 msgid "Clear /data/adb/*"
-msgstr "Borrar /data/adb/*"
+msgstr "Pulisci /data/adb/*"
 
 msgid "Start Shizuku"
-msgstr "Iniciar Shizuku"
+msgstr "Avvia Shizuku"
 
 msgid "Pif Manager"
-msgstr "Administrador Pif"
+msgstr "Pif Manager"
 
 msgid "SOS"
 msgstr "SOS"
 
 msgid "Lock Bootloader"
-msgstr "Bloquear Bootloader"
+msgstr "Blocca Bootloader"
 
 msgid "Unlock Bootloader"
-msgstr "Desbloquear Bootloader"
+msgstr "Sblocca Bootloader"
 
 # -------------------------------------
 # Dev Tools menu items
 # -------------------------------------
 msgid "Check keybox.xml"
-msgstr "Verificar keybox.xml"
+msgstr "Verifica keybox.xml"
 
 msgid "Decode Binary XML"
-msgstr "Decodificar XML binario"
+msgstr "Decodifica XML binario"
 
 msgid "AVB - Get Image Info"
-msgstr "AVB - Obtener info imagen"
+msgstr "AVB - Ottieni info immagine"
 
 msgid "AVB - Prepare Downgrade Patch"
 msgstr "AVB - Preparar parche de downgrade"
